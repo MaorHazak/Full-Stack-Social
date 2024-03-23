@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "@headlessui/react": "^1.7.17",
+    "react-modal": "^3.16.1",
+    "react-spring": "^9.7.3",
+    "react-transition-group": "^4.4.5"
+  }
+}
